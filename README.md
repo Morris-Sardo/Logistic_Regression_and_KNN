@@ -1,2 +1,11 @@
-# Data-Analysis
-This project aim to understadn  implementetation of a Logist Regression model, training and evaluation it, and finally  compare it with KNN model. 
+# Logistic Regression and KNN
+
+Setup Project
+* import numpy
+* 8 import pandas
+* import matplotlib
+* load mnist_test.cvs dataset
+
+# Descriptions
+This project is an implementetation of a Logist Regression model, training and evaluation it, and finally  compare it with KNN model. 
+
