@@ -7,5 +7,5 @@
 * load mnist_test.cvs dataset
 
 # Descriptions
-This project is an implementetation of a Logist Regression model, training and evaluation it, and finally  compare it with KNN model. 
+This project is an implementation of a Logist Regression model, training and evaluation it, and finally  compare it with KNN model. 
 
