@@ -1,8 +1,8 @@
 # Logistic Regression and KNN
 
-Setup Project
+# Setup Project
 * import numpy
-* 8 import pandas
+* import pandas
 * import matplotlib
 * load mnist_test.cvs dataset
 
